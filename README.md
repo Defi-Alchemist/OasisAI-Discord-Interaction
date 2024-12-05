@@ -12,14 +12,14 @@ The code intends to autoatically complete the "Generate images with the Oasis AI
 
 Follow these steps to set up the Oasis AI Discord Interaction project on your local machine:
 
-### 1. Clone the Repository
+### 1. Clone the Repository and redirect to the oasis folder
 
 ```bash
 git clone https://github.com/Defi-Alchemist/OasisAI-Discord-Interaction.git
 cd OasisAI-Discord-Interaction
 ```
 
-### 2. Clone the Repository
+### 2. Install dependencies
 
 ```bash
 npm install
